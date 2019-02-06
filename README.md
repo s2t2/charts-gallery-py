@@ -36,3 +36,20 @@ python demo_plotly.py
 ```
 
 ![](/images/demo_plotly.png)
+
+
+### Matplotlib
+
+Installation:
+
+```sh
+pip install matplotlib
+```
+
+Demonstration:
+
+```sh
+python demo_matplotlib.py
+```
+
+![](/images/demo_matplotlib.png)
