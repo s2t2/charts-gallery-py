@@ -1,6 +1,6 @@
 # Chart Gallery Exercise
 
-An example solution.
+An example solution for [the "Chart Gallery" Exercise](https://github.com/prof-rossetti/georgetown-opim-243-201901/blob/master/exercises/chart-gallery.md).
 
 ## Investigation Phase
 
